@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(145, 182, 182);
+  }
+
+  h1{
+    text-align: center;
+    color: rgb(7, 5, 5);
+    font-variant: small-caps;
+    font-size: 42px;
+  }
